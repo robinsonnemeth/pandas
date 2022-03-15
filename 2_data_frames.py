@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv('C:\\Users\\carol\\Documents\\pandas\\report.csv')
+df = pd.read_csv('report.csv')
 
 def exercise(num):
     print(20*('*'))
